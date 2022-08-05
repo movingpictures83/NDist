@@ -1,2 +1,2 @@
-Prefix plugins/NDist/example/
-Plugin NDist inputfile output_s60_c01_T220_s30_c08_P.fa outputfile output_s60_c01_T220_s30_c08_P.ndist
+Prefix plugins/NeedlemanWunsch/example/
+Plugin NeedlemanWunsch inputfile output_s60_c01_T220_s30_c08_P.fa outputfile output_s60_c01_T220_s30_c08_P.ndist
